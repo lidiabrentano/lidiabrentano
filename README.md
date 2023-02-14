@@ -17,7 +17,7 @@
   <img align="center" alt="javascript-symbol" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 #### 💡 Curiosities
-- I like learning languages <including programming languages 😅>. For now, i'm studying italian and I keep practicing my english!
-- I'm very methodic, therefore i like organization
+- I like learning languages <including programming languages 😅>, for now I'm studying italian and I keep practicing my english!
 - I loooove doing little DYI projects and handmade stuff 💜
+- I'm very methodic, therefore I like organization 😌
 - I'm brazilian 💚💛
