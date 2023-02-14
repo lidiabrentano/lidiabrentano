@@ -18,6 +18,6 @@
 
 #### 💡 Curiosities
 - I like learning languages <including programming languages 😅>, for now I'm studying italian and I keep practicing my english!
-- I loooove doing little DYI projects and handmade stuff 💜
+- I loooove doing little DIY projects and handmade stuff 💜
 - I'm very methodic, therefore I like organization 😌
 - I'm brazilian 💚💛
