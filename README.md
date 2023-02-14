@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Lídia Brentano 👋
 
-<!--
-**lidiabrentano/lidiabrentano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🙋🏻‍♀️ About me
+- Currently studying at Rocketseat's course: Explorer - Full Stack Developer Program
+- Graduated in Graphic Design and have been working in marketing for 6 years
+- I'm now changing careers and looking forward to contribute in new projects!
 
-Here are some ideas to get you started:
+#### 🤖 Github
+<a href="https://github.com/lidiabrentano">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=lidiabrentano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiabrentano&layout=compact&langs_count=16&theme=dracula"/>
+ 
+#### 📖 Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="html-symbol" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="css-symbol" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="javascript-symbol" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
