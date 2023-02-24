@@ -4,11 +4,6 @@
 - Currently studying at Rocketseat's course: Explorer - Full Stack Developer Program
 - Graduated in Graphic Design and have been working in marketing for 6 years
 - I'm now changing careers and looking forward to contribute in new projects!
-
-#### 🤖 Github
-<a href="https://github.com/lidiabrentano">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=lidiabrentano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiabrentano&layout=compact&langs_count=16&theme=dracula"/>
  
 #### 📖 Learning
 
